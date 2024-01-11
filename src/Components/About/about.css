@@ -1,0 +1,19 @@
+.title{
+ 
+ font-weight: 600;
+ padding-top:80px ;
+ padding-left: 42px;  
+ font-family:  Verdana, Geneva, Tahoma, sans-serif;
+ padding-bottom: 40px;
+}
+.para{
+
+    width: 100%; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 150px;
+    padding-right: 150px;
+    text-indent: 80px;
+    letter-spacing: 1.5px;
+    margin-left: 10px;
+
+}

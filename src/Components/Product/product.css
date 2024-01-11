@@ -1,0 +1,27 @@
+.photo{
+   width: 36%;
+   object-fit: scale-down;
+   position: relative;
+   left: 310px;
+}
+
+.container:hover{
+
+    box-shadow:1px 2px 60px  ;
+     transition: .5s;
+}
+
+.container{
+    margin-top: 45px;
+    border-radius: 20px;
+    box-shadow:1px 1px 40px  ;
+}
+.cartlogo{
+
+    margin-left: 50px;
+    color: black;
+    text-decoration: none;
+}
+.itemprice{
+    color:black;
+}
